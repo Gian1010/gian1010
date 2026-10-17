@@ -15,7 +15,7 @@
 ## 🚀 Sobre mí
 
 Diseño y entrego **sistemas web a medida para clientes reales**: comercios, profesionales de la salud y particulares.
-Trabajo con asistentes y agentes de IA en todo el ciclo: **análisis, programación, testing y documentación**.
+Cada proyecto se apoya en lo que aprendí en la carrera: **relevamiento de requisitos con el cliente, modelado de datos y diseño de bases relacionales, arquitectura en capas, reglas de negocio bien definidas, seguridad y testing**, todo organizado con metodologías ágiles. Sobre esa base sumo asistentes y agentes de IA como herramienta para **acelerar el análisis, la programación, las pruebas y la documentación**, sin perder el control técnico de lo que se construye.
 
 Lo que más me gusta es encontrar tareas repetitivas y hacer que **se resuelvan solas**: avisos automáticos, cálculos, control de stock, cierres financieros.
 Cada sistema que entrego incluye **manual de usuario y capacitación personalizada**, para que el cliente lo use desde el primer día.
