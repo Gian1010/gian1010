@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gianweb-tau.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gianweb--tau.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://gianfranconiveiro.site"><img src="https://img.shields.io/badge/Portfolio-gianfranconiveiro.site-7E4BC7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:gianfranconiveiro@hotmail.com"><img src="https://img.shields.io/badge/Email-gianfranconiveiro%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
 
